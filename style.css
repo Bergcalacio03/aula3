@@ -1,0 +1,23 @@
+
+body{
+    background-color: ;
+    colorbackground: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 96%, rgba(192,252,69,0.2807078075709779) 100%);:;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    font-size: 36px;
+    font-style: italic;
+    color: #e75440
+}
+
+.subtitulo{
+    font-size: 24px;
+    text-decoration: underline;
+    color: #eac048;
+}
+
+img{
+    max-width: 500px;
+}
+border-radius
